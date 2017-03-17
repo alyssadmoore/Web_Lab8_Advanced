@@ -1,0 +1,8 @@
+body {
+  background: lightsteelblue;
+  font-family: sans-serif;
+}
+
+input, button, select {
+  margin: 5px;
+}
